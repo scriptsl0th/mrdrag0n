@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm @mrdrag0n 👋
+
+- 🔭 I’m currently a student 
+- 🌱 I’m currently learning ... Djando, IoT, embedded system, AI
+- 🤔 I’m looking for help with Machine Learning projects and IoT project
+- 👀 I’m interested in Web Development & Artificial Intelligence
+- 📫 How to reach me: ...
+
+
+
 
 <!--
 **mrdrag0n/mrdrag0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
