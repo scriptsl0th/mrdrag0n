@@ -1,4 +1,4 @@
-### Hi I'm @mrdrag0n 👋
+### Hi I'm Aziz 👋
 
 - 🔭 I’m currently a student 
 - 🌱 I’m currently learning ... Djando, IoT, embedded system, AI
