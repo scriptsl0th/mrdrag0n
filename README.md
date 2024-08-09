@@ -1,6 +1,6 @@
 ### Hi I'm Aziz 👋
 
-- 🔭 I’m currently a student 
+- 🔭 I’m currently a Backend developer  
 - 🌱 I’m currently learning ... Djando, IoT, embedded system, AI
 - 👀 I’m interested in Web Development & Artificial Intelligence
 
